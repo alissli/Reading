@@ -100,9 +100,9 @@
 - [x] 97.《麦肯锡教我的思考武器》
 - [x] 98.《Storytelling Animal: How Stories Make Us Human》Gottschall, Jonathan
 - [] 99.《Change: Principles of Problem Formation and Problem Resolution》Erickson M.D., Milton H.
-- [] 100.《》
+- [x] 100.《认同感：用故事包装事实的艺术》
 - [ ] 101.《男性研究》     张颖,王政 
-- [ ] 102.《故事力学-掌握故事创作的内在动力》 拉里布鲁克斯（Larry Brooks）著，陶娟译 
+- [x] 102.《故事力学-掌握故事创作的内在动力》 拉里布鲁克斯（Larry Brooks）著，陶娟译 
 - [ ] 103.《演讲六记》 理查德 波列斯拉夫斯基著，刘杰译
 - [ ] 104.《去纽约上设计课》
 - [ ] 105.《Designer's Diary-设计师的设计日记》南征编著 飞思数字创意出版中心 监制
