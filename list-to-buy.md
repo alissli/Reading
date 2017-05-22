@@ -20,3 +20,8 @@ For product
 For other
 1. [设计心理学]（）
 2. [组织(珍藏版)](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00COFY94W/ref=sr_1_1?s=books&ie=UTF8&qid=1495418801&sr=1-1&keywords=%E7%BB%84%E7%BB%87)
+3. [日常生活中的自我呈现](https://book.douban.com/subject/3062632/)
+4. [人生脚本（万千心理）](https://book.douban.com/subject/26906474/)
+5. []()
+6. []()
+
