@@ -10,6 +10,10 @@ For writing
 9. [快樂，從心開始](https://book.douban.com/subject/20399786/)
 10. [追随直觉之路](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01BBHBMUW/ref=sr_1_6?s=books&ie=UTF8&qid=1495419581&sr=1-6&keywords=Joseph+Campbell)
 11. [指引生命的神话:永续生存的力量](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00DDHB3LW/ref=sr_1_3?s=books&ie=UTF8&qid=1495419581&sr=1-3&keywords=Joseph+Campbell)
+12. [英文玩家](https://book.douban.com/subject/20370764/)
+13. [文法的魔力](https://book.douban.com/subject/25723462/)
+14. [The Glamour of Grammar](https://book.douban.com/subject/6782834/)
+15. [进化树](https://book.douban.com/subject/4880486/)
 
 For product
 1. [找工作:关系人与职业生涯的研究](https://book.douban.com/subject/3312309/)
