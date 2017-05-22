@@ -14,6 +14,7 @@ For writing
 13. [文法的魔力](https://book.douban.com/subject/25723462/)
 14. [The Glamour of Grammar](https://book.douban.com/subject/6782834/)
 15. [进化树](https://book.douban.com/subject/4880486/)
+16. [哇，发明家诞生了](http://product.dangdang.com/23782549.html)
 
 For product
 1. [找工作:关系人与职业生涯的研究](https://book.douban.com/subject/3312309/)
