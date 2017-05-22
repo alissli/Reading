@@ -8,6 +8,7 @@ For writing
 7. [Flow](https://book.douban.com/subject/3424266/)
 8. [幸福的真意](https://book.douban.com/subject/3422625/)
 9. [快樂，從心開始](https://book.douban.com/subject/20399786/)
+10. [追随直觉之路](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01BBHBMUW/ref=sr_1_6?s=books&ie=UTF8&qid=1495419581&sr=1-6&keywords=Joseph+Campbell)
 
 For product
 1. [找工作:关系人与职业生涯的研究](https://book.douban.com/subject/3312309/)
