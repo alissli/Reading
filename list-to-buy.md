@@ -15,6 +15,7 @@ For writing
 14. [The Glamour of Grammar](https://book.douban.com/subject/6782834/)
 15. [进化树](https://book.douban.com/subject/4880486/)
 16. [哇，发明家诞生了](http://product.dangdang.com/23782549.html)
+17. [The Art of Styling Sentences](https://book.douban.com/subject/1377665/)
 
 For product
 1. [找工作:关系人与职业生涯的研究](https://book.douban.com/subject/3312309/)
