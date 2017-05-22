@@ -4,3 +4,13 @@ For writing
 3. [巨匠与杰作](https://book.douban.com/subject/24737022/)
 4. [文学讲稿](https://book.douban.com/subject/1312558/)
 5. [阿西莫夫论科幻小说](https://book.douban.com/subject/4882004/)
+
+For product
+1. [找工作:关系人与职业生涯的研究](https://book.douban.com/subject/3312309/)
+2. [结构洞](https://book.douban.com/subject/3291183/)
+3. [社会网络分析发展史](https://book.douban.com/subject/3159865/)
+
+
+For other
+1. [设计心理学]（）
+2. [组织(珍藏版)](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00COFY94W/ref=sr_1_1?s=books&ie=UTF8&qid=1495418801&sr=1-1&keywords=%E7%BB%84%E7%BB%87)
