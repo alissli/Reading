@@ -4,6 +4,10 @@ For writing
 3. [巨匠与杰作](https://book.douban.com/subject/24737022/)
 4. [文学讲稿](https://book.douban.com/subject/1312558/)
 5. [阿西莫夫论科幻小说](https://book.douban.com/subject/4882004/)
+6. [当下的幸福](https://book.douban.com/subject/6509801/)
+7. [Flow](https://book.douban.com/subject/3424266/)
+8. [幸福的真意](https://book.douban.com/subject/3422625/)
+9. [快樂，從心開始](https://book.douban.com/subject/20399786/)
 
 For product
 1. [找工作:关系人与职业生涯的研究](https://book.douban.com/subject/3312309/)
