@@ -28,6 +28,6 @@ For other
 2. [组织(珍藏版)](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00COFY94W/ref=sr_1_1?s=books&ie=UTF8&qid=1495418801&sr=1-1&keywords=%E7%BB%84%E7%BB%87)
 3. [日常生活中的自我呈现](https://book.douban.com/subject/3062632/)
 4. [人生脚本（万千心理）](https://book.douban.com/subject/26906474/)
-5. []()
-6. []()
+5. [从一到无穷大](https://book.douban.com/subject/1102715/)
+6. [数学：确定性的丧失](https://book.douban.com/subject/1049136/)
 
