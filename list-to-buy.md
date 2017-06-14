@@ -17,7 +17,7 @@ For writing
 16. [哇，发明家诞生了](http://product.dangdang.com/23782549.html)
 17. [The Art of Styling Sentences](https://book.douban.com/subject/1377665/)
 18. [另类人](https://book.douban.com/subject/1127271/)
-
+19. [成功，动机与目标](https://book.douban.com/subject/22994632/)
 For product
 1. [找工作:关系人与职业生涯的研究](https://book.douban.com/subject/3312309/)
 2. [结构洞](https://book.douban.com/subject/3291183/)
