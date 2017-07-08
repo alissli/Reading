@@ -1,6 +1,6 @@
 For writing
 1. ~[功能语法导论](https://book.douban.com/subject/3340802/)~
-2. [文章自在](https://www.amazon.cn/文章自在-张大春/dp/B01MY1ZSLL/ref=sr_1_1?s=books&ie=UTF8&qid=1495264101&sr=1-1&keywords=文章自在)
+2. ~[文章自在](https://www.amazon.cn/文章自在-张大春/dp/B01MY1ZSLL/ref=sr_1_1?s=books&ie=UTF8&qid=1495264101&sr=1-1&keywords=文章自在)~
 3. ~[巨匠与杰作](https://book.douban.com/subject/24737022/)~
 4. [文学讲稿](https://book.douban.com/subject/1312558/)
 5. ~[阿西莫夫论科幻小说](https://book.douban.com/subject/4882004/)~
@@ -14,12 +14,14 @@ For writing
 13. [文法的魔力](https://book.douban.com/subject/25723462/)
 14. [The Glamour of Grammar](https://book.douban.com/subject/6782834/)
 15. [进化树](https://book.douban.com/subject/4880486/)
-16. [哇，发明家诞生了](http://product.dangdang.com/23782549.html)
+16. ~[哇，发明家诞生了](http://product.dangdang.com/23782549.html)~
 17. [The Art of Styling Sentences](https://book.douban.com/subject/1377665/)
 18. [另类人](https://book.douban.com/subject/1127271/)
 19. ~[成功，动机与目标](https://book.douban.com/subject/22994632/)~
-20. [个性](https://book.douban.com/subject/5269125/)
+20. ~[个性](https://book.douban.com/subject/5269125/)~
 21. [决策与判断](https://book.douban.com/subject/1193621/)
+22. [人类活动中的理性](https://book.douban.com/subject/26934266/)
+23. []()
 
 For product
 1. ~[找工作:关系人与职业生涯的研究](https://book.douban.com/subject/3312309/)~
