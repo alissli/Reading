@@ -21,7 +21,10 @@ For writing
 20. ~[个性](https://book.douban.com/subject/5269125/)~
 21. [决策与判断](https://book.douban.com/subject/1193621/)
 22. [人类活动中的理性](https://book.douban.com/subject/26934266/)
-23. []()
+~23. [《变的美学：临床心理学家的控制论手册》]()~
+24. [《大师的手艺与绝活》](https://book.douban.com/subject/26861859/)
+25. [《家庭治疗概论》](https://book.douban.com/subject/1712354/)
+26. []()
 
 For product
 1. ~[找工作:关系人与职业生涯的研究](https://book.douban.com/subject/3312309/)~
