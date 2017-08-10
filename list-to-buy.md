@@ -25,6 +25,15 @@ For writing
 24. [《大师的手艺与绝活》](https://book.douban.com/subject/26861859/)
 25. [《家庭治疗概论》](https://book.douban.com/subject/1712354/)
 26. []()
+27. [安吉拉·卡特的精怪故事集](https://book.douban.com/subject/5993314/)
+28. [Pitch Anything](https://book.douban.com/subject/6075190/)
+[购买地址](https://www.amazon.cn/mn/detailApp/ref=asc_df_00717528542654186/?asin=0071752854&tag=douban-23&creative=2384&creativeASIN=0071752854&linkCode=df0)
+29. [一百个人的十年](https://book.douban.com/subject/3206771/)
+30. [未来简史](https://book.douban.com/subject/26943161/)
+31. []()
+32. []()
+33. []()
+
 
 For product
 1. ~[找工作:关系人与职业生涯的研究](https://book.douban.com/subject/3312309/)~
