@@ -20,10 +20,10 @@ For writing
 19. ~[成功，动机与目标](https://book.douban.com/subject/22994632/)~
 20. ~[个性](https://book.douban.com/subject/5269125/)~
 21. [决策与判断](https://book.douban.com/subject/1193621/)
-~22. [人类活动中的理性](https://book.douban.com/subject/26934266/)~
-~23. [《变的美学：临床心理学家的控制论手册》]()~
+22. ~[人类活动中的理性](https://book.douban.com/subject/26934266/)~
+23. ~[《变的美学：临床心理学家的控制论手册》]()~
 24. [《大师的手艺与绝活》](https://book.douban.com/subject/26861859/)
-~25. [《家庭治疗概论》](https://book.douban.com/subject/1712354/)~
+25. ~[《家庭治疗概论》](https://book.douban.com/subject/1712354/)~
 26. []()
 27. [安吉拉·卡特的精怪故事集](https://book.douban.com/subject/5993314/)
 28. [Pitch Anything](https://book.douban.com/subject/6075190/)
