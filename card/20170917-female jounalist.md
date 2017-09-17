@@ -19,5 +19,7 @@ Mrs. Craig also won other firsts for women. She was said to have been the first 
 ### 人名卡
 - 人名：娜丽·布莱(Nellie Bly,原名Elizabeth Jane Cochran，1864年5月5日-1922年1月27日）
 - 印象：She is better known by her pen name Nellie Bly, was an American journalist who has widely known for her record-breaking trip around the world in 72 dayss, in emulation of Jules Verne's fictional character Phileas Fogg, and an expose in which she worked undercover to report on a mental instituion from within. She was a pioneer in her field, and launched a new kind of investigative journalism. Bly was also a writer, industrialist, inventor, and a charity worker.
-- 例子：
+
+In 1895 Bly married millionaire manufacturer Robert Seaman. Bly was 31 and Seaman was 73 when they married.Due to her husband's failing health, she retired from journalism and succeeded her husband as head of the Iron Clad Manufacturing Co., which made steel containers such as milk cans and boilers.
+- 例子：Bly was, however, an inventor in her own right, receiving U.S. patent 697,553 for a novel milk can and U.S. patent 703,711 for a stacking garbage can, both under her married name of Elizabeth Cochrane Seaman.For a time she was one of the leading women industrialists in the United States, but negligence and embezzlement(贪污) by a factory manager resulted in the Iron Clad Manufacturing Co. going bankrupt.
 - 出处：[wiki-Nellie Bly](https://en.wikipedia.org/wiki/Nellie_Bly)
