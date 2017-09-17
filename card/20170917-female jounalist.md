@@ -18,4 +18,6 @@ Mrs. Craig also won other firsts for women. She was said to have been the first 
 
 ### 人名卡
 - 人名：娜丽·布莱(Nellie Bly,原名Elizabeth Jane Cochran，1864年5月5日-1922年1月27日）
-- 印象：She is better known by her pen name Nellie Bly, was an American journalist who has widely known for her record-breaking trip around the world in 72 dayss, in emulation of Jules Verne's fictional character Phileas Fogg, and an
+- 印象：She is better known by her pen name Nellie Bly, was an American journalist who has widely known for her record-breaking trip around the world in 72 dayss, in emulation of Jules Verne's fictional character Phileas Fogg, and an expose in which she worked undercover to report on a mental instituion from within. She was a pioneer in her field, and launched a new kind of investigative journalism. Bly was also a writer, industrialist, inventor, and a charity worker.
+- 例子：
+- 出处：[wiki-Nellie Bly](https://en.wikipedia.org/wiki/Nellie_Bly)
