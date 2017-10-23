@@ -2,6 +2,10 @@
  - postformal  后形式
  - gerontologist 老年医学家
  - obituary 讣告
+ - stasis  停滞，静止
+ - spirituality 精神性，灵性
+ - integrative 综合的，一体化的
+ - orthogenetic 发生的，直生的
  
  ### 人名卡
  - 人名：Erik Erikson
