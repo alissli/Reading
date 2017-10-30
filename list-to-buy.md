@@ -1,4 +1,7 @@
-For writing
+### Management 100
+1.  [Culture, Leadership, and Organizations: The GLOBE Study of 62 Societies ](https://www.amazon.com/Culture-Leadership-Organizations-GLOBE-Societies/dp/0761924019)
+
+### For writing
 1. ~[功能语法导论](https://book.douban.com/subject/3340802/)~
 2. ~[文章自在](https://www.amazon.cn/文章自在-张大春/dp/B01MY1ZSLL/ref=sr_1_1?s=books&ie=UTF8&qid=1495264101&sr=1-1&keywords=文章自在)~
 3. ~[巨匠与杰作](https://book.douban.com/subject/24737022/)~
